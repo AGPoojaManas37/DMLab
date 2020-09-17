@@ -1,0 +1,10 @@
+% my data
+@relation student
+@attribute rollno numeric
+@attribute name string
+@attribute dept{cse,it,ece,eee}
+@attribute grade{A,B,C,D}
+@data
+38, NEHA, it, B
+39, SHRUTHI, ece, C
+40, KAIVALYA, eee, D
